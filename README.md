@@ -1,0 +1,1 @@
+eldre prosjekt som kanskje en dag ser sin tid som streamlit app
